@@ -17,6 +17,7 @@ public class CoreAppWebApplication {
 		//test
 		//1
 		//2
+		//4
 		return new BCryptPasswordEncoder();
 	}
 }
