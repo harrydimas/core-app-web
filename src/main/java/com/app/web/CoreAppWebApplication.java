@@ -15,6 +15,7 @@ public class CoreAppWebApplication {
 	@Bean
 	public BCryptPasswordEncoder passwordEncoder() {
 		//test
+		//1
 		return new BCryptPasswordEncoder();
 	}
 }
